@@ -12,13 +12,6 @@ A responsive Todo List application built with React that allows users to:
 
 ---
 
-## 🚀 Live Demo
-
-(After deployment on Vercel, paste your live link here)
-
-Example:
-https://your-project-name.vercel.app
-
 ---
 
 ## 🛠️ Technologies Used
@@ -61,4 +54,4 @@ https://your-project-name.vercel.app
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/abubakar1239/flexisaf-react-task.git
